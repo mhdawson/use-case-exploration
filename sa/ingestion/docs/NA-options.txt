@@ -1,0 +1,113 @@
+These are the options for laptop refreshes
+
+1. Dell XPS 15 (Model 9530)
+
+Target User: Creative professionals, users needing a powerful Windows laptop with a premium display and strong build quality.
+
+Processor: Intel Core i9-13900H (14 Cores, 20 Threads, up to 5.4 GHz Max Turbo Frequency, 24MB Intel Smart Cache)
+
+Graphics: NVIDIA GeForce RTX 4070 Laptop GPU with 8GB GDDR6 (40W TGP)
+
+Display: 15.6-inch 3.5K (3456x2160) OLED InfinityEdge Anti-Reflective Touch Display, 400 nits brightness, 100% DCI-P3, 60Hz.
+
+RAM: 64GB DDR5 4800MHz (2 x 32GB, dual-channel).
+
+Storage: 4TB PCIe Gen4 NVMe M.2 SSD.
+
+Operating System: Windows 11 Pro 64-bit.
+
+Notable Features: CNC machined aluminum chassis with carbon fiber palm rest, large Force Touch trackpad, quad-speaker audio (2.5W woofers x2, 1.5W tweeters x2), 720p HD webcam with dual-array mics.
+
+Ports: 2x Thunderbolt 4 (USB Type-C with DisplayPort and Power Delivery), 1x USB 3.2 Gen 2 Type-C (with DisplayPort and Power Delivery), SD-card slot, 3.5mm headphone/microphone combo jack.
+
+Wireless: Intel Killer Wi-Fi 6E AX1675 (AX211), Bluetooth 5.3.
+
+2. Apple MacBook Air 13-inch (M3, Early 2024)
+
+Target User: Students, general users, and professionals seeking an ultra-portable laptop with exceptional battery life and macOS.
+
+Processor: Apple M3 chip (8-core CPU with 4 performance cores and 4 efficiency cores).
+
+Graphics: Apple M3 10-core GPU.
+
+Display: 13.6-inch Liquid Retina display (2560x1664 native resolution at 224 pixels per inch), 500 nits brightness, Wide color (P3), True Tone technology.
+
+RAM: 24GB Unified Memory.
+
+Storage: 2TB SSD.
+
+Operating System: macOS (currently macOS Sonoma, with macOS Sequoia expected later in 2025).
+
+Notable Features: Fanless design, MagSafe 3 charging port, Touch ID, 1080p FaceTime HD camera, four-speaker sound system with Spatial Audio, up to 18 hours battery life.
+
+Ports: 2x Thunderbolt / USB 4 ports (supporting charging, DisplayPort, Thunderbolt 3 up to 40Gb/s, USB 4 up to 40Gb/s), 3.5mm headphone jack.
+
+Wireless: Wi-Fi 6E (802.11ax), Bluetooth 5.3.
+
+3. HP Spectre x360 14 (Model 14-eu0000 series, 2024)
+
+Target User: Users who need a versatile 2-in-1 convertible laptop for productivity, creativity, and media consumption, with advanced AI features.
+
+Processor: Intel Core Ultra 7 155H (16 Cores, 22 Threads, up to 4.8 GHz with Intel Turbo Boost Technology, 24MB L3 cache), with Intel AI Boost NPU.
+
+Graphics: Integrated Intel Arc Graphics.
+
+Display: 14-inch 2.8K (2880 x 1800) OLED multitouch-enabled display, 120Hz refresh rate, 0.2ms response time, IMAX Enhanced, 400 nits typical brightness, edge-to-edge glass, anti-reflection.
+
+RAM: 32GB LPDDR5x-6400 MHz (onboard).
+
+Storage: 2TB PCIe Gen4 NVMe M.2 SSD.
+
+Operating System: Windows 11 Home 64-bit.
+
+Notable Features: 2-in-1 convertible design with premium aluminum chassis, haptic touchpad, 9MP IR camera with AI features (auto-frame, eye contact, privacy alert), Poly Studio audio.
+
+Ports: 2x Thunderbolt 4 with USB Type-C (40Gbps signaling rate, USB Power Delivery, DisplayPort 1.4), 1x USB Type-A 3.2 Gen 2 (10Gbps signaling rate), 3.5mm headphone/microphone combo jack.
+
+Wireless: Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3.
+
+4. Lenovo ThinkPad X1 Carbon Gen 12 (Model 21KC)
+
+Target User: Business professionals prioritizing security, durability, and a top-tier typing experience in a lightweight, ultra-portable package.
+
+Processor: Intel Core Ultra 7 165U vPro Processor (12 Cores, 14 Threads, up to 4.90 GHz P-cores, 12MB Intel Smart Cache), with Intel AI Boost NPU.
+
+Graphics: Integrated Intel Arc Graphics.
+
+Display: 14-inch 2.8K (2880 x 1800) OLED Anti-Glare/Anti-Reflection/Anti-Smudge, 400 nits, 100% DCI-P3, 120Hz, Low Blue Light.
+
+RAM: 64GB LPDDR5X 6400MHz (soldered).
+
+Storage: 2TB PCIe Gen4 Performance SSD (M.2 2280 Opal).
+
+Operating System: Windows 11 Pro 64-bit.
+
+Notable Features: Legendary spill-resistant ThinkPad keyboard with TrackPoint and large glass TrackPad, MIL-STD-810H certified durability, 1080p FHD IR+RGB camera with privacy shutter and Computer Vision, Fingerprint Reader, Dolby Atmos speakers, Dolby Voice microphones.
+
+Ports: 2x USB-C (Thunderbolt 4, USB 40Gbps, Power Delivery 3.0, DisplayPort 2.1), 2x USB-A 3.2 Gen 1 (5Gbps), 1x HDMI 2.1 (supports up to 4K@60Hz), 3.5mm headphone/mic combo, optional Nano SIM slot (for WWAN).
+
+Wireless: Intel Wi-Fi 6E AX211 2x2, Bluetooth 5.3, optional WWAN (Quectel EM160R-GL 4G LTE CAT16 or Quectel RM520N-GL 5G Sub6).
+
+5. ASUS ROG Zephyrus G14 (Model GA403, 2024)
+
+Target User: Gamers and content creators who need a powerful laptop that remains relatively portable.
+
+Processor: AMD Ryzen 9 8945HS Processor (8 Cores, 16 Threads, up to 5.2 GHz Max Boost Clock, 24MB L3 Cache), with AMD XDNA NPU (up to 16 TOPS).
+
+Graphics: NVIDIA GeForce RTX 4070 Laptop GPU with 8GB GDDR6 (ROG Boost: 1655MHz* at 90W - 65W+25W Dynamic Boost), NVIDIA Advanced Optimus, G-Sync support.
+
+Display: 14-inch 3K (2880 x 1800) OLED ROG Nebula Display, 16:10 aspect ratio, 120Hz refresh rate, 0.2ms response time, 100% DCI-P3, Pantone Validated, Dolby Vision HDR.
+
+RAM: 32GB LPDDR5X (onboard, dual-channel).
+
+Storage: 2TB PCIe Gen4 NVMe M.2 SSD.
+
+Operating System: Windows 11 Pro 64-bit.
+
+Notable Features: Slim aluminum chassis (1.59cm thin, 1.5kg weight), AniMe Matrix LED lighting (Slash Lighting version), ROG Intelligent Cooling (tri-fan, liquid metal, improved heat pipes), MUX Switch, quad-speaker system with Dolby Atmos.
+
+Ports: 1x HDMI 2.1 FRL, 2x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C (support DisplayPort), 1x USB 4 Type-C (support DisplayPort / power delivery), microSD card reader (UHS-II), 3.5mm Combo Audio Jack.
+
+Wireless: Wi-Fi 6E (802.11ax), Bluetooth 5.3.
+
+
