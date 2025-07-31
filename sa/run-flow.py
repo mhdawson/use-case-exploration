@@ -2,6 +2,7 @@
 
 import uuid
 import logging
+import random
 from pathlib import Path
 from llama_stack_client import LlamaStackClient
 from strip_markdown import strip_markdown
@@ -10,8 +11,8 @@ from strip_markdown import strip_markdown
 logging.getLogger("httpx").setLevel(logging.WARNING)
 
 # Configuration
-# model_id = "meta-llama/Llama-3.1-8B-Instruct"
-# model_id = "my-model3"
+#model_id = "meta-llama/Llama-3.1-8B-Instruct"
+#model_id = "my-model3"
 model_id = "llama-4-scout-17b-16e-w4a16"
 SHOW_RAG_DOCUMENTS = False
 
@@ -48,12 +49,6 @@ def main():
     agent_id = agentic_system_create_response.agent_id
     print(agent_id)
 
-    # Create a session that will be used to ask the agent a sequence of questions
-    session_create_response = client.agents.session.create(
-        agent_id, session_name="agent1"
-    )
-    session_id = session_create_response.session_id
-
     #############################
     # ASK QUESTIONS
 
@@ -64,10 +59,18 @@ def main():
         "proceed",
     ]
 
-    for j in range(1):
+    for j in range(10):
+        print("")
         print(
             f"Iteration {j} ------------------------------------------------------------"
         )
+
+        # Create a session that will be used to ask the agent a sequence of questions
+        session_create_response = client.agents.session.create(
+            agent_id, session_name="agent1"
+        )
+        session_id = session_create_response.session_id
+        questions[2] = str(random.randint(1, 5))
 
         for i, question in enumerate(questions):
             print("QUESTION: " + question)
