@@ -13,6 +13,7 @@
 
 #### Llama-3.1-8B-Instruct 
 
+```
 Iteration 0 ------------------------------------------------------------ (Fail, wrong replacement lifecycle, failed to call tool for ticket, made up lots of info)
 Iteration 1 ------------------------------------------------------------ (Fail, wrong replacement lifecycle, failed to call tool for ticket, made up lots of info)
 Iteration 2 ------------------------------------------------------------ (Fail, wrong replacement lifecycle, failed to call tool for ticket, made up lots of info)
@@ -23,8 +24,10 @@ Iteration 6 ------------------------------------------------------------ (Fail, 
 Iteration 7 ------------------------------------------------------------ (Fail, wrong replacement lifecycle, failed to call tool for ticket)
 Iteration 8 ------------------------------------------------------------ (Fail, wrong replacement lifecycle, failed to call tool for ticket)
 Iteration 9 ------------------------------------------------------------ (Fail, wrong replacement lifecycle, failed to call tool for ticket, made up lots of info)
+```
 
 #### llama-4-scout-17b-16e-w4a16 
+```
 Iteration 0 ------------------------------------------------------------ (Pass)
 Iteration 1 ------------------------------------------------------------ (Fail, submitted laptop request without confirmation)
 Iteration 2 ------------------------------------------------------------ (Pass)
@@ -35,11 +38,13 @@ Iteration 6 ------------------------------------------------------------ (Fail, 
 Iteration 7 ------------------------------------------------------------ (Fail, did not ask if user wanted to proceed)
 Iteration 8 ------------------------------------------------------------ (Pass)
 Iteration 9 ------------------------------------------------------------ (Fail, did not explain that it was too early)
+```
 
 ### prompt2
 
 #### llama-4-scout-17b-16e-w4a16 
 
+```
 Iteration 0 ------------------------------------------------------------ (Pass)
 Iteration 1 ------------------------------------------------------------ (Fail presented options before comfirmation,  wording makes is sound like not elligeable)
 Iteration 2 ------------------------------------------------------------ (Pass)
@@ -49,5 +54,7 @@ Iteration 5 ------------------------------------------------------------ (Pass)
 Iteration 6 ------------------------------------------------------------ (Pass)
 Iteration 7 ------------------------------------------------------------ (Fail presented options before comfirmation,  wording makes is sound like not elligeable)
 Iteration 8 ------------------------------------------------------------ (Pass)
+```
+
 Iteration 9 ------------------------------------------------------------ (Pass, but wording a bit strange)
 
