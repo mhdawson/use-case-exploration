@@ -1,0 +1,12 @@
+langgraph==0.2.45
+langchain==0.3.10
+langchain-openai==0.2.10
+langchain-community==0.3.10
+langchain-core==0.3.28
+pydantic==2.9.2
+python-dotenv==1.0.0
+openai==1.58.1
+typing-extensions==4.14.0
+requests==2.32.4
+llama-stack-client==0.2.12
+fire==0.7.0
